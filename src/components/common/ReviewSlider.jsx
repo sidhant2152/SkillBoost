@@ -9,7 +9,8 @@ import { FaStar } from "react-icons/fa";
 import { Autoplay, FreeMode, Pagination } from "swiper/modules";
 
 import { apiConnector } from "../../services/apiConnector";
-import { ratingsEndpoints } from "../../services/apis";
+import { ratingsEndpoints } from "../../services/APIs";
+// import { ratingsEndpoints } from "../../services/apis";
 
 function ReviewSlider() {
   const [reviews, setReviews] = useState([]);
