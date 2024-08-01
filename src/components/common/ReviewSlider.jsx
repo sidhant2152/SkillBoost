@@ -8,7 +8,7 @@ import "swiper/css/pagination";
 import { FaStar } from "react-icons/fa";
 import { Autoplay, FreeMode, Pagination } from "swiper/modules";
 
-import { apiConnector } from "../../services/apiconnector";
+import { apiConnector } from "../../services/apiConnector";
 import { ratingsEndpoints } from "../../services/apis";
 
 function ReviewSlider() {
