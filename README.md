@@ -63,4 +63,4 @@ SkillBoost follows a client-server architecture:
 1. User authentication and authorization: Students and instructors can sign up and log in to the platform using their email addresses and password. The platform also supports OTP (One-Time Password) verification and forgot password functionality for added security.
 2. Course management: Instructors can create, read, update, and delete courses, as well as manage course content and media. Students can view and rate courses.
 3. Payment Integration: Students will purchase and enrol on courses by completing the checkout flow that is followed by Razorpay integration for payment handling.
-4. Cloud-based media management: StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+4. Cloud-based media management: SkillBoost uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
